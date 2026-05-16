@@ -1,11 +1,11 @@
 # Study_Mitra 
-🎓 AI Powered Lecture Intelligence Tool
+AI Powered Lecture Intelligence Tool
 
 An end-to-end **AI-powered system** that converts lecture videos/audio into **structured, searchable, and intelligent learning material**. This tool automatically transcribes lectures, generates summaries, extracts key concepts, enables question answering, and supports multilingual translation — all wrapped in an easy-to-use **Gradio web interface**.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Students and educators often struggle with:
 
@@ -18,37 +18,37 @@ This project solves these problems by transforming raw lecture media into **acti
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔊 Lecture Transcription
+### Lecture Transcription
 
 * Converts **audio/video lectures** into accurate text
 * Uses **Fast-Whisper** for high-speed, high-accuracy speech recognition
 * Handles long lectures efficiently
 
-### 🧠 AI-Powered Summarization
+### AI-Powered Summarization
 
 * Generates **concise lecture summaries**
 * Highlights key ideas and learning objectives
 * Powered by **Transformer-based NLP models**
 
-### 🔑 Keyword & Topic Extraction
+### Keyword & Topic Extraction
 
 * Identifies **important concepts and keywords**
 * Uses **spaCy NLP pipeline**
 * Helps in fast revision and indexing
 
-### ❓ Question Answering (Q&A)
+### Question Answering (Q&A)
 
 * Ask questions directly from lecture content
 * Context-aware answers generated using NLP models
 
-### 🌍 Translation Support
+### Translation Support
 
 * Translate lecture transcripts into multiple languages
 * Helpful for multilingual learners
 
-### 🖥️ Interactive Web Interface
+### Interactive Web Interface
 
 * Built using **Gradio**
 * Upload lecture files and get results instantly
@@ -56,7 +56,7 @@ This project solves these problems by transforming raw lecture media into **acti
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Lecture Audio/Video
@@ -80,7 +80,7 @@ Lecture Audio/Video
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component           | Technology               |
 | ------------------- | ------------------------ |
@@ -94,7 +94,7 @@ Lecture Audio/Video
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AI-Powered-Lecture-Intelligence-Tool/
@@ -105,7 +105,7 @@ AI-Powered-Lecture-Intelligence-Tool/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -129,7 +129,7 @@ apt-get install -y ffmpeg
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Open the notebook:
 
@@ -146,7 +146,7 @@ Run all cells and Gradio will launch a **local web interface** where you can:
 
 ---
 
-## 📊 Use Cases
+## Use Cases
 
 * 📚 Students: Smart revision & exam prep
 * 👨‍🏫 Teachers: Automated lecture notes
@@ -156,7 +156,7 @@ Run all cells and Gradio will launch a **local web interface** where you can:
 
 ---
 
-## ✅ Advantages
+## Advantages
 
 * Language-agnostic
 * Handles long lectures
@@ -166,7 +166,7 @@ Run all cells and Gradio will launch a **local web interface** where you can:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Accuracy depends on audio quality
 * Very long lectures may require chunking
@@ -174,7 +174,7 @@ Run all cells and Gradio will launch a **local web interface** where you can:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Speaker diarization
 * Timestamp-based navigation
@@ -184,7 +184,7 @@ Run all cells and Gradio will launch a **local web interface** where you can:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -194,7 +194,7 @@ Contributions are welcome!
 4. Open a Pull Request
 
 
-## 👤 Author
+## Author
 
 * Divyanshu Tiwari
 * Manish Kumar
@@ -204,5 +204,5 @@ Contributions are welcome!
 
 ---
 
-⭐ If you like this project, don’t forget to star the repository!
+If you like this project, don’t forget to star the repository!
 
